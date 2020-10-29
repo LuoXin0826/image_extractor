@@ -1,0 +1,8 @@
+prefix=/home/luoxin/Documents/robotX/catkin_ws/src/image_extractor/build/devel
+
+Name: image_extractor
+Description: Description of image_extractor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

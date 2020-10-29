@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/luoxin/Documents/robotX/catkin_ws/src/image_extractor/build/devel/setup.sh
