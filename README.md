@@ -15,4 +15,5 @@ catkin_make
 source devel/setup.bash
 rosrun image_extractor image_extractor_node
 ```
+And run your rosbag.
 The extracted images would be stored in 'extracted_images' folder.
